@@ -1,4 +1,7 @@
-<!-- home page -->
+<?php include('template/header.html') ?>
+
 <?php 
-    echo 'Hello world';
+    echo 'Home Page';
 ?>
+
+<?php include('template/footer.html') ?>
