@@ -1,7 +1,7 @@
-<?php include('template/header.html') ?>
+<?php include('html/template/header.html') ?>
 
 <?php 
     echo 'Home Page';
 ?>
 
-<?php include('template/footer.html') ?>
+<?php include('html/template/footer.html') ?>
