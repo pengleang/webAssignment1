@@ -2434,6 +2434,10 @@ ul {
   height: 820px;
 }
 
+.banner_part .single_banner_slider .banner_text2 {
+  height: 84px !important;
+}
+
 /* line 11, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_banner.scss */
 .banner_part .single_banner_slider .banner_text .banner_text_iner {
   display: table-cell;
