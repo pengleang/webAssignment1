@@ -9,7 +9,7 @@
 <body>
 <?php include('html/template/header.html') ?>
 
-<section class="banner_part">
+    <section class="banner_part">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -34,8 +34,11 @@
             </div>
         </div>
     </section>
-    <!-- banner part start -->
-    <!-- <p>home</p> -->
+    
+
+    <div class="fake_container">
+
+    </div>
 
 <?php include('html/template/footer.html') ?>
 </body>
