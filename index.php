@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+
 <body>
-<?php include('html/template/header.html') ?>
+    <?php include('html/template/header.html') ?>
 
     <section class="banner_part">
         <div class="container">
@@ -32,13 +34,20 @@
             </div>
         </div>
     </section>
-    
-    
 
-    <div class="fake_container">
-
+    <div class="container fake_container">
+        <div class="letterContainer">
+            <p> <span class="letterAnnouncer">Letter from His Excellency</span> <br>
+            Welcome to the new Ministry of Public Works and Transport website.
+            We are proud of our achievements on behalf of our citizens and on this website feature our recently introduced Online Citizen Services that will make dealing with government services more convenient, transparent, and, save your valuable time.
+            </p>
+        </div>
+        <div class="picContainer">
+            <img src="img/hisExPic.jpg" class="hisExPic">
+        </div>
     </div>
 
-<?php include('html/template/footer.html') ?>
+    <?php include('html/template/footer.html') ?>
 </body>
+
 </html>
