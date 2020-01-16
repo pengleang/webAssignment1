@@ -21,7 +21,7 @@
                                         <div class="banner_text_iner">
                                             <h1>System Management</h1>
                                             <p><b style="color: black; font-size: 18px">Services:</b> Track and Trace, Operational Logistic Information, Logistics Complex Center, Information Maps and Road</p>
-                                            <a href="pages/report/reportLandingPage.html" class="btn_2">Learn More</a>
+                                            <a href="pages/sysManagement/sysLandingPage.html" class="btn_2">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -36,6 +36,7 @@
     
 
     <div class="fake_container">
+
     </div>
 
 <?php include('html/template/footer.html') ?>
