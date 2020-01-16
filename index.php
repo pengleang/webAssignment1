@@ -19,11 +19,9 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Wood & Cloth
-                                                Sofa</h1>
-                                            <p>Incididunt ut labore et dolore magna aliqua quis ipsum
-                                                suspendisse ultrices gravida. Risus commodo viverra</p>
-                                            <a href="#" class="btn_2">buy now</a>
+                                            <h1>System Management</h1>
+                                            <p><b style="color: black; font-size: 18px">Services:</b> Track and Trace, Operational Logistic Information, Logistics Complex Center, Information Maps and Road</p>
+                                            <a href="pages/report/reportLandingPage.html" class="btn_2">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -38,7 +36,6 @@
     
 
     <div class="fake_container">
-
     </div>
 
 <?php include('html/template/footer.html') ?>
