@@ -2139,7 +2139,7 @@ ul {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 20, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
   .main_menu .main-menu-item ul li .nav-link {
-    padding: 35px 20px;
+    padding: 35px 8px;
   }
 }
 
@@ -2283,7 +2283,7 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-  background-color: #ff3368;
+  background-color: blue;
 }
 
 /* line 174, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
@@ -2291,7 +2291,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #ff3368;
+  background-color: blue;
   text-transform: capitalize;
 }
 
