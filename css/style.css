@@ -654,6 +654,10 @@ ul {
   padding: 12px 25px;
 }
 
+.button-contactForm:hover{
+  color: #ff3368 !important;
+}
+
 /* End Main Button Area css
 ============================================================================================ */
 /* Start Blog Area css
@@ -2161,7 +2165,7 @@ ul {
   max-width: 1140px;
   z-index: 999;
   text-align: center;
-  background: #ff3368;
+  background: blue;
 }
 
 /* line 60, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
@@ -7637,7 +7641,7 @@ h6 {
   border-radius: 5px;
   border: 0px solid transparent;
   margin-top: 20px;
-  width: 80%;
+  width: 100%;
   background-color: #f9f9fe;
 }
 
