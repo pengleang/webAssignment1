@@ -2290,9 +2290,13 @@ ul {
 .dropdown .dropdown-menu .dropdown-item {
   font-size: 14px;
   padding: 8px 20px !important;
-  color: #fff !important;
+  /* color: #fff; */
   background-color: blue;
   text-transform: capitalize;
+}
+
+.dropdown-item:hover{
+  color: #ff3368;
 }
 
 /* line 185, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
@@ -7642,12 +7646,12 @@ h6 {
   position: absolute;
   right: 0px;
   top: 30px;
-  background-color: #ff3368;
+  background-color: blue;
   text-align: center;
   color: #fff;
   border-radius: 5px;
   line-height: 10px;
-  border: 2px solid #ff3368;
+  border: 2px solid blue;
 }
 
 /* line 125, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_footer.scss */
