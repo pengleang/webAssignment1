@@ -1,0 +1,27 @@
+.contact_background {
+    background-image: url('https://www.lightsupply.eu/wp-content/uploads/2018/07/contact-background.png');
+    background-color: #cccccc;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.contact_text {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.contact_form {
+    
+}
+
+.ministry_location iframe{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
