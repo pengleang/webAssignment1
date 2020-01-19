@@ -498,30 +498,6 @@ pre code {
   margin-left: auto;
 }
 
-.fake_container {
-  width: 100%;
-  margin-bottom: 100px !important;
-}
-
-.letterContainer {
-  width: 60%;
-  float: left;
-  padding-left: 50px;
-  padding-right: 50px;
-  font-size: 14px;
-  text-align: justify;
-}
-
-.picContainer {
-  width: auto;
-  float: right; 
-}
-
-.letterAnnouncer {
-  font-weight: bold;
-  font-size: 36px;
-}
-
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
