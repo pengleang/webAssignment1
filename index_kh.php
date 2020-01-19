@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <?php include('html/template/header.html') ?>
+    <?php include('html/template/header_kh.html') ?>
 
     
 
@@ -105,7 +105,7 @@
         </div>
     </div>
 
-    <?php include('html/template/footer.html') ?>
+    <?php include('html/template/footer_kh.html') ?>
 </body>
 
 </html>
