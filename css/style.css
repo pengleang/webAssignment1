@@ -2132,6 +2132,7 @@ ul {
 /* line 14, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
 .main_menu .navbar {
   padding: 0px;
+  background-color: #ecfdff;
 }
 
 /* line 20, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
@@ -2560,9 +2561,10 @@ ul {
 .banner_part .owl-nav {
   position: absolute;
   right: 0;
+  color: white;
   bottom: 0;
-  padding: 35px 80px;
-  background-color: #fff;
+  padding: 20px 50px;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 @media (max-width: 991px) {
