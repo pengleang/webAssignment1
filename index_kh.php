@@ -27,9 +27,9 @@
 </style>
 
 <body>
-    <?php include('html/template/header.html') ?>
+    <?php include('html/template/header_kh.html') ?>
 
-    
+
 
     <section class="banner_part">
         <div class="container">
@@ -113,9 +113,9 @@
 
     <div class="container fake_container">
         <div class="letterContainer">
-            <p> <span class="letterAnnouncer">Letter from His Excellency</span> <br>
-            Welcome to the new Ministry of Public Works and Transport website.
-            We are proud of our achievements on behalf of our citizens and on this website feature our recently introduced Online Citizen Services that will make dealing with government services more convenient, transparent, and, save your valuable time.
+            <p> <span class="letterAnnouncer" style="font-family: Khmer Moul">សាររបស់ឯកឧត្តមទេសរដ្ឋមន្ត្រី</span> <br>
+                សូមស្វាគមន៍មកកាន់គេហទំព័រថ្មីរបស់ក្រសួងសាធារណការ និងដឹកជញ្ជូន! <br>
+                ជួសមុខឲ្យប្រជាពលរដ្ឋខ្មែរទាំងអស់ យើងខ្ញុំមានមោទនភាពជាអនេកចំពោះសមិទ្ធិផលនានាដែលសម្រេចបាន រួមទាំងការដាក់ឲ្យដំណើរការប្រព័ន្ធស្វ័យប្រវត្តិកម្ម ដែលបានធ្វើឲ្យសេវាសាធារណៈកាន់តែមានភាពងាយស្រួល មានតម្លាភាព និងចំណេញពេលវាលា។
             </p>
         </div>
         <div class="picContainer">
@@ -123,7 +123,7 @@
         </div>
     </div>
 
-    <?php include('html/template/footer.html') ?>
+    <?php include('html/template/footer_kh.html') ?>
 </body>
 
 </html>
