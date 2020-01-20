@@ -2436,12 +2436,12 @@ ul {
 .single_page_menu .main-menu-item ul li .nav-link:hover {
   color: #ff3368 !important;
 }
-
 /**************** banner part css start ****************/
 /* line 2, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_banner.scss */
 .banner_part {
   position: relative;
-  background-color: #ecfdff;
+  /* background-color: #ecfdff; */
+  background-image: url('/img/portPic.jpg');
   overflow: scroll;
 }
 
