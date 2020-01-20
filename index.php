@@ -8,6 +8,24 @@
     <title>Document</title>
 </head>
 
+<style>
+    .blahblah1{
+        background-image: url('img/banner1.jpg');
+    }
+    .blahblah2{
+        background-image: url('img/banner2.jpg');
+    }
+    .blahblah3{
+        background-image: url('img/banner3.jpg');
+    }
+    .blahblah4{
+        background-image: url('img/banner4.jpg');
+    }
+    button .owl-prev{
+        color: white;
+    }
+</style>
+
 <body>
     <?php include('html/template/header.html') ?>
 
@@ -19,7 +37,7 @@
                 <div class="col-lg-12">
                     <div class="banner_slider owl-carousel">
                         <div class="single_banner_slider">
-                            <div class="row">
+                            <div class="row blahblah1">
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
@@ -36,7 +54,7 @@
                                 </div> -->
                             </div>
                         </div><div class="single_banner_slider">
-                            <div class="row">
+                            <div class="row blahblah2">
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
@@ -53,7 +71,7 @@
                                 </div> -->
                             </div>
                         </div><div class="single_banner_slider">
-                            <div class="row">
+                            <div class="row blahblah3">
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
@@ -71,7 +89,7 @@
                             </div>
                         </div>
                         <div class="single_banner_slider">
-                            <div class="row">
+                            <div class="row blahblah4">
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
