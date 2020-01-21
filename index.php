@@ -112,7 +112,6 @@
     </section>
 <!-- 
     <div class="container fake_container">
-
         <div class="letterContainer">
             <p><span class="letterAnnouncer">Letter from His Excellency</span> <br>
             Welcome to the new Ministry of Public Works and Transport website.
