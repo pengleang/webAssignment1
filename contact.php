@@ -19,19 +19,58 @@
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/contact.css">
+    <style>
+        h1, h4 {
+            color: white !important;
+        }
+
+        .banner_part {
+            background-image: url("img/portPic.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .main_menu {
+            background-color: white;
+        }
+    </style>
 </head>
 
 <body>
     <?php include('html/template/header.html') ?>
 
-    <section class="banner_part">
+    <!-- <section class="banner_part">
         <div class="single_banner_slider">
             <div class="banner_text banner_text2"></div>
         </div>
+    </section> -->
+    <section class="banner_part">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="banner_slider owl-carousel">
+                        <div class="single_banner_slider">
+                            <div class="row blahblah1">
+                                <div class="col-lg-5 col-md-8">
+                                    <div class="banner_text">
+                                        <div class="banner_text_iner">
+                                            <h1>Contact</h1>
+                                            <h4>Home / Contact</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- <div class="banner_img d-none d-lg-block">
+                                    <img src="img/banner_img.png" alt="">
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </section>
 
     <div class="fake_container">
-        
+
         <div class="container-contact100">
             <div class="wrap-contact100">
                 <form class="contact100-form validate-form">
